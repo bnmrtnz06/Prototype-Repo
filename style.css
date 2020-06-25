@@ -26,7 +26,7 @@ body
 
 
 .loginbox {
-    /*animation: form-entry 3s ease-in-out; */
+    animation: form-entry 3s ease-in-out; 
     transition: 1s all ;
     width: 320px;
     height: 420px;
